@@ -1,4 +1,4 @@
-# Amazon-Alexa-Reviews
+# Amazon Alexa Reviews Sentiment Analysis
 
 This project involves sentiment analysis of Amazon Alexa reviews, aiming to classify each review as positive or negative using a machine learning model. The steps involved include data loading, cleaning, exploratory data analysis (EDA), preprocessing, and building machine learning models.
 
